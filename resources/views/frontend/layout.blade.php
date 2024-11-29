@@ -159,7 +159,7 @@
                     </div>
                     
                 </div>
-                <div class="row">
+                <div class="row bs-featured-gallery-links">
                     <div class="col-md-3" data-index="1">
                         <a
                             href="/2024/11/unbroken-chains-the-continuity-of-systemic-corruption-in-afghanistan/"
